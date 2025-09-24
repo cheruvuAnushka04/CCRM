@@ -60,6 +60,9 @@ text java -da -cp bin edu.ccrm.Main
 
 The Screenshot Shows the working of the project
 <img width="862" height="265" alt="Image" src="https://github.com/user-attachments/assets/ea14095b-9d06-49be-b78e-28bbe1109208" />
+<img width="970" height="796" alt="Image" src="https://github.com/user-attachments/assets/46684622-e62b-47c6-a50f-cd47229fee52" />
+<img width="964" height="697" alt="Image" src="https://github.com/user-attachments/assets/22e4020b-77b6-4e49-9131-a4e2a9e84280" />
+<img width="885" height="326" alt="Image" src="https://github.com/user-attachments/assets/db8e7b73-a3f4-42bd-8339-36be5f106553" />
 
 
 
