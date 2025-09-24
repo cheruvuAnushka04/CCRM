@@ -59,11 +59,8 @@ text java -ea:edu.ccrm... -cp bin edu.ccrm.Main To disable assertions:
 text java -da -cp bin edu.ccrm.Main
 
 The Screenshot Shows the working of the project
+<img width="862" height="265" alt="Image" src="https://github.com/user-attachments/assets/ea14095b-9d06-49be-b78e-28bbe1109208" />
 
 
-<img width="1724" height="530" alt="image" src="https://github.com/user-attachments/assets/9a3fe076-1718-4efb-9d09-b9f1ce04e008" />
-<img width="1734" height="1450" alt="image" src="https://github.com/user-attachments/assets/7841ae20-d2df-4c61-8415-72a42b701cd6" />
-<img width="1716" height="1256" alt="image" src="https://github.com/user-attachments/assets/c796f315-65c7-451a-a686-b8db4ceb4c82" />
-<img width="1594" height="600" alt="image" src="https://github.com/user-attachments/assets/26edc0ae-0c8c-4e9c-879e-6b1eeb60b1b0" />
 
 
